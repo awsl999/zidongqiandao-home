@@ -1,0 +1,36 @@
+{
+    "status": "1",
+    "regeocode": {
+        "addressComponent": {
+            "city": "青岛市",
+            "province": "山东省",
+            "adcode": "370211",
+            "district": "黄岛区",
+            "towncode": "370211005000",
+            "streetNumber": {
+                "number": "66号",
+                "location": "120.174282,35.943905",
+                "direction": "西北",
+                "distance": "297.693",
+                "street": "长江西路"
+            },
+            "country": "中国",
+            "township": "长江路街道",
+            "businessAreas": [
+                []
+            ],
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "citycode": "0532"
+        },
+        "formatted_address": "山东省青岛市黄岛区长江路街道华东路中国石油大学(华东)"
+    },
+    "info": "OK",
+    "infocode": "10000"
+}
